@@ -186,5 +186,3 @@ This project is open-source and available under the **MIT License**.
 ---
 
 **🚀 Drive safe, stay connected, and make the roads smarter with IoT!**
-```
-
