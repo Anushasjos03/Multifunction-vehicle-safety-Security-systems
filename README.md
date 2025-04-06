@@ -1,6 +1,4 @@
-Sure! Below is your entire **`README.md`** with all content properly formatted in **Markdown**:
 
-```markdown
 # 🚗💡 Multifunctional Vehicle Safety & Security System using IoT
 
 > 🚘 Empowering safer roads with smart IoT-based vehicle safety.  
